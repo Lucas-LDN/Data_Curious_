@@ -1,0 +1,82 @@
+"product_id","product_level_1","product_level_2","product_level_3","product_level_4","type","product_quantity","size","price"
+"pdx_0001","Wine","Red Wine","Cabernet Sauvignon","Fruity Ocean Cabernet Sauvignon","Bottle",1,"75cl",15
+"pdx_0002","Wine","Red Wine","Cabernet Sauvignon","Carnivor Cabernet Sauvignon","Bottle",1,"75cl",8.5
+"pdx_0003","Wine","Red Wine","Cabernet Sauvignon","HS Cabernet Sauvignon","Bottle",1,"75cl",4.8
+"pdx_0004","Wine","Red Wine","Cabernet Sauvignon","HS Cabernet Sauvignon","Box",1,"2.25L",12.8
+"pdx_0005","Wine","Red Wine","Shiraz","Fruity Ocean Shiraz","Bottle",1,"75cl",19.5
+"pdx_0006","Wine","Red Wine","Shiraz","HS Shiraz","Bottle",1,"75cl",5
+"pdx_0007","Wine","Red Wine","Shiraz","St Sebastian Shiraz","Bottle",1,"75cl",7.5
+"pdx_0008","Wine","Red Wine","Merlot","HS Merlot","Bottle",1,"75cl",4.8
+"pdx_0009","Wine","Red Wine","Merlot","Castillo Merlot","Bottle",1,"75cl",9.5
+"pdx_0010","Wine","Red Wine","Merlot","Vapiano Merlot","Bottle",1,"75cl",10
+"pdx_0011","Wine","Red Wine","Merlot","HS Merlot","Box",1,"2.25L",12
+"pdx_0012","Wine","Red Wine","Merlot","Vapiano Merlot","Box",1,"2.25L",25
+"pdx_0013","Wine","Red Wine","Pinot Noir","HS Pinot Noir","Bottle",1,"75cl",5.5
+"pdx_0014","Wine","Red Wine","Pinot Noir","Vapiano Pinot Noir","Bottle",1,"75cl",8
+"pdx_0015","Wine","Red Wine","Grenache","HS Grenache","Bottle",1,"75cl",6
+"pdx_0016","Wine","Red Wine","Grenache","Most Wanted Grenache","Bottle",1,"75cl",12.5
+"pdx_0017","Wine","Red Wine","Malbec","Catena Malbec","Bottle",1,"75cl",15
+"pdx_0018","Wine","Red Wine","Malbec","Ferrer Malbec","Bottle",1,"75cl",85
+"pdx_0019","Wine","White Wine","Chardonnay","HS Chardonnay","Bottle",1,"75cl",4.9
+"pdx_0020","Wine","White Wine","Chardonnay","Vapiano Chardonnay","Bottle",1,"75cl",7.5
+"pdx_0021","Wine","White Wine","Chardonnay","Catena Chardonnay","Bottle",1,"75cl",12
+"pdx_0022","Wine","White Wine","Chardonnay","HS Chardonnay","Box",1,"2.25L",13.5
+"pdx_0023","Wine","White Wine","Pinot Grigio","HS Pinot Grigio","Bottle",1,"75cl",5
+"pdx_0024","Wine","White Wine","Pinot Grigio","Alta Pinot Grigio","Bottle",1,"75cl",7.5
+"pdx_0025","Wine","White Wine","Pinot Grigio","Catena Pinot Grigio","Bottle",1,"75cl",14
+"pdx_0026","Wine","White Wine","Pinot Grigio","HS Pinot Grigio","Box",1,"2.25L",13
+"pdx_0027","Wine","White Wine","Sauvignon Blanc","HS Sauvignon Blanc","Bottle",1,"75cl",6
+"pdx_0028","Wine","White Wine","Sauvignon Blanc","Villa Sauvignon Blanc","Bottle",1,"75cl",9
+"pdx_0029","Wine","White Wine","Sauvignon Blanc","Catena Sauvignon Blanc","Bottle",1,"75cl",17
+"pdx_0030","Wine","White Wine","Riesling","Blue Rock Riesling","Bottle",1,"75cl",10
+"pdx_0031","Wine","White Wine","Riesling","Catena Riesling","Bottle",1,"75cl",125
+"pdx_A32","Wine","Sparkling Wine","Champagne","HS Champagne","Bottle",1,"75cl",17
+"pdx_A22","Wine","Sparkling Wine","Champagne","LeCouvelier Champagne","Bottle",1,"75cl",37
+"pdx_A54","Wine","Sparkling Wine","Champagne","Choet & Mandon","Bottle",1,"75cl",50
+"pdx_A44","Wine","Sparkling Wine","Champagne","Lobbinger Special","Bottle",1,"75cl",200
+"pdx_A33","Wine","Sparkling Wine","Champagne","HS Champagne","Magnum",1,"1.5L",30
+"pdx_A23","Wine","Sparkling Wine","Champagne","LeCouvelier Champagne","Magnum",1,"1.5L",65
+"pdx_B01","Wine","Sparkling Wine","Prosecco","HS Prosecco","Bottle",1,"75cl",6.8
+"pdx_B02","Wine","Sparkling Wine","Prosecco","Leo San Prosecco","Bottle",1,"75cl",10
+"pdx_B03","Wine","Sparkling Wine","Prosecco","Catena Prosecco","Bottle",1,"75cl",18
+"pdx_0041","Beer","Beer","Lager","Budvarser","Bottle",12,"330ml",10
+"pdx_0154","Beer","Beer","Lager","Neroni","Bottle",12,"330ml",12
+"pdx_0132","Beer","Beer","Lager","Templeton","Bottle",12,"330ml",14
+"pdx_0044","Beer","Beer","Lager","Yardling","Bottle",1,"660ml",2.5
+"pdx_0045","Beer","Beer","Lager","Praha","Bottle",1,"660ml",2.5
+"pdx_0046","Beer","Beer","Lager","Pilsnet","Bottle",12,"330ml",10
+"pdx_0047","Beer","Beer","Lager","Kronen","Bottle",12,"330ml",12
+"pdx_0048","Beer","Beer","Lager","Delilah 1876","Bottle",12,"30ml",10
+"pdx_0049","Beer","Beer","Lager","Kronen","Can",10,"440ml",10
+"pdx_0050","Beer","Beer","Lager","Budvarser","Can",10,"440ml",8
+"pdx_0051","Beer","Beer","Lager","Delilah 1876","Can",10,"440ml",8
+"pdx_0052","Beer","Beer","Pale Ale","Thirsty Bear","Can",1,"330ml",2
+"pdx_0053","Beer","Beer","Pale Ale","Green Tipple","Bottle",1,"500ml",3
+"pdx_0054","Beer","Beer","Pale Ale","Gold King","Bottle",1,"500ml",3.5
+"pdx_0055","Beer","Beer","IPA","Goose Bridge","Bottle",1,"500ml",1.8
+"pdx_0056","Beer","Beer","IPA","Old Empire","Bottle",1,"500ml",2
+"pdx_0057","Beer","Beer","Bitter","Hoffbrew","Bottle",1,"500ml",2
+"pdx_0058","Beer","Beer","Bitter","Ghost Crew","Bottle",1,"500ml",2.2
+"pdx_0059","Beer","Beer","Bitter","Hop Town","Bottle",1,"500ml",2.5
+"pdx_0060","Beer","Beer","Stout","World Record","Can",1,"440ml",1.8
+"pdx_0061","Beer","Beer","Stout","Paddies Day","Can",1,"500ml",1.2
+"pdx_0062","Beer","Beer","Porter","Black Goose","Bottle",1,"500ml",2
+"pdx_0063","Beer","Beer","Porter","Dark Stallion","Bottle",1,"500ml",2
+"pdx_0064","Spirits","Spirits","Vodka","White Swan","Bottle",1,"70cl",39
+"pdx_0065","Spirits","Spirits","Vodka","Blue Square","Bottle",1,"70cl",20
+"pdx_0066","Spirits","Spirits","Vodka","Red Standard","Bottle",1,"70cl",16
+"pdx_0067","Spirits","Spirits","Gin","Bombay Emerald","Bottle",1,"1L",32
+"pdx_0068","Spirits","Spirits","Gin","London Gin House","Bottle",1,"70cl",18
+"pdx_0069","Spirits","Spirits","Gin","Florist","Bottle",1,"70cl",22
+"pdx_0070","Spirits","Spirits","Whisky","Daniel Jacks","Bottle",1,"70cl",18
+"pdx_0123","Spirits","Spirits","Whisky","Classic Grouse","Bottle",1,"70cl",20
+"pdx_0072","Spirits","Spirits","Whisky","Terrie Runner","Bottle",1,"70cl",21
+"pdx_0092","Spirits","Spirits","Whisky","Barrel Oak","Bottle",1,"70cl",26
+"pdx_0074","Spirits","Spirits","Whisky","Glendarg","Bottle",1,"70cl",26
+"pdx_0075","Spirits","Spirits","Whisky","Glendarg Black","Bottle",1,"70cl",70
+"pdx_0076","Spirits","Spirits","Brandy","Umbrano","Bottle",1,"70cl",31
+"pdx_0077","Spirits","Spirits","Brandy","Osbourne","Bottle",1,"70cl",35
+"pdx_0078","Spirits","Spirits","Rum","Coconut Sailor","Bottle",1,"70cl",23
+"pdx_0079","Spirits","Spirits","Rum","Jack Seagull","Bottle",1,"70cl",25
+"pdx_1145","Spirits","Spirits","Tequila","Jose Padron","Bottle",1,"70cl",19
+"pdx_1146","Spirits","Spirits","Tequila","Slammer Sunrise","Bottle",1,"70cl",17
